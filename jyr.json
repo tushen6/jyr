@@ -16,8 +16,8 @@
             "name": "💓南巷优蓉丨永远滴神💓",
             "type": 3,
             "api": "csp_WebIV",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 0
         },
         {
