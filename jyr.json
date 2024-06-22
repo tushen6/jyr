@@ -22,7 +22,7 @@
         },
         {
             "key": "云盘登录",
-            "name": "云盘登录",
+            "name": "💭云盘登录",
             "type": 3,
             "api": "csp_AliYunPan",
             "searchable": 0,
@@ -33,7 +33,7 @@
         },
 	      {
       "key": "配置中心ok",
-      "name": "阿里夸克┃配置中心",
+      "name": "📡阿里夸克┃配置中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://vip.123pan.cn/1829447248/6131635",
@@ -46,7 +46,7 @@
     },
         {
             "key": "配置中心",
-            "name": "配置中心",
+            "name": "📡配置中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -59,22 +59,64 @@
         },
 
         {
-      "key": "玩偶",
-      "name": "💯小优玩偶┃4K臻享",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
-      },
-      "jar": "https://vip.123pan.cn/1829447248/fx/fty.jar"
+			"key": "hipy_js_采集之王[合]1",
+			"name": "🔞谨慎观看",
+			"type": 3,
+			"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1,
+			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/采集之王[合].js?type=url&params=https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/采集[密]静态.json"
+		},
+		{
+			"key": "hipy_js_29片库[密]",
+			"name": "🔞小心观看",
+			"type": 3,
+			"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/lib/main/29片库[密].js"
+		},
+		     {"key": "鸡坤资源", "name": "🔞带上耳机", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+		{
+    "key": "❤老23896鸭资源",       "name":  "🔞放飞自我",    "type": 1,
+    
+    "api" : "https://Naixxzy.com/api.php/provide/vod/",
+   
+    "searchable": 1,       "quickSearch": 1,       "filterable": 0
+  },
+		 {
+      "key": "❤老鸭资源",
+      "name": "🔞只能自己看",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      
+      "quickSearch": 0,
+      "filterable": 0
     },
+        
+    {
+      "key": "api.apilyzy.com",
+      "name": "🔞不可以分享",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+    "key": "❤老鸭8资源",       "name": "🔞不然打死你",     "type": 1,
+    
+    "api" : "http://fhapi9.com/api.php/provide/vod/",
+    
+    "searchable": 1,       "quickSearch": 1,       "filterable": 0
+  },
 	    {
     "key":"央视剧场",
         "name":"💯央视剧场✅",
@@ -86,7 +128,7 @@
         },
         {
             "key": "韩小圈",
-            "name": "🐰韩小圈",
+            "name": "⭕韩小圈",
             "type": 3,
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
